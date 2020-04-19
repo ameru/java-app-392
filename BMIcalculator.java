@@ -1,4 +1,4 @@
-package ruHW1;
+package ruGit1;
 
 import java.util.Scanner;
 
