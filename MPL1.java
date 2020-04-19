@@ -25,8 +25,8 @@ public class Q{
 	}
 }
 
-// Given an int variable datum that has already been declared, write a few statements that read an integer 
-  value from standard input into this variable.
+/* Given an int variable datum that has already been declared, write a few statements that read an integer 
+  value from standard input into this variable. */
 Scanner x=new Scanner(System.in); 
 datum = x.nextInt();
 
@@ -50,31 +50,31 @@ int totalPopulation = 1222333;
 double length = 3.5;
 double width = 1.55;
 
-// Given two int variables, i and j, which have been declared and initialized, and two other int variables, 
+/* Given two int variables, i and j, which have been declared and initialized, and two other int variables, 
   itemp and jtemp, which have been declared, write some code that swaps the values in i and j by copying their values 
-  to itemp and jtemp respectively, and then copying itemp and jtemp to j and i respectively.
+  to itemp and jtemp respectively, and then copying itemp and jtemp to j and i respectively. */
 jtemp = j;
 itemp = i;
 j = itemp;
 i = jtemp;
 
-// Given three already declared int variables, i, j, and temp, write some code that swaps the values in i and j. 
+/* Given three already declared int variables, i, j, and temp, write some code that swaps the values in i and j. 
   Use temp to hold the value of i and then assign j's value to i. The original value of i, which was saved in temp, 
-   can now be assigned to j.
+   can now be assigned to j. */
 temp = i;
 i = j;
 j = temp;
 
-// Given two double variables, bestValue and secondBestValue, write some code that swaps their values. 
-  Declare any additional variables as necessary.
+/* Given two double variables, bestValue and secondBestValue, write some code that swaps their values. 
+  Declare any additional variables as necessary. */
 double x;
 x = bestValue;
 bestValue = secondBestValue;
 secondBestValue = x;
 
-// Four integer variables, pos1, pos2, pos3, pos4 have been declared and initialized. Write the code 
+/* Four integer variables, pos1, pos2, pos3, pos4 have been declared and initialized. Write the code 
   necessary to "left rotate" their values: for each variable to get the value of the successive variable, 
-  with pos4 getting pos1's value.
+  with pos4 getting pos1's value. */
 int var = 0;
 var = pos1;
 pos1 = pos2;
@@ -97,8 +97,8 @@ pos4 = var;
 // Declare an integer constant, MONTHS_IN_YEAR, whose value is 12.
 final int MONTHS_IN_YEAR = 12;
 
-// Declare a constant MONTHS_IN_DECADE, whose value is the value of the constant 
-  MONTHS_IN_YEAR (already declared) multiplied by 10.
+/* Declare a constant MONTHS_IN_DECADE, whose value is the value of the constant 
+  MONTHS_IN_YEAR (already declared) multiplied by 10. */
 final int MONTHS_IN_DECADE = MONTHS_IN_YEAR * 10
 
 
