@@ -1,5 +1,5 @@
 # learning-java
-## Topics covered:
+## What I'm learning:
 1. Variable Types and Operations
    - see BMIcalculator and MPL1
 2. Programming Structure and Expressions
