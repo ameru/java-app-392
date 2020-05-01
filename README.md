@@ -5,6 +5,7 @@
 2. Programming Structure and Expressions
    - see Demystifying and carTransport
 3. Flow of Control (If/Else, nesting)
+   - see collegeAdmissionsBot, palindrome, and MPL2
 4. Flow of Control (Switch), I/O and Strings
 5. Looping, Debugging, and Randomization
 6. Arrays
