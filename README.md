@@ -7,6 +7,7 @@
 3. Flow of Control (If/Else, nesting)
    - see collegeAdmissionsBot, palindrome, and MPL2
 4. Flow of Control (Switch), I/O and Strings
+   - see decryption and serverfarms
 5. Looping, Debugging, and Randomization
 6. Arrays
 7. Methods, Classes (Encapsulation, Objects, and References)
