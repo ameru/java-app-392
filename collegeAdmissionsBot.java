@@ -1,4 +1,4 @@
-package ruHW3;
+package ruHW2;
 
 import java.util.Scanner;
 
