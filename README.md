@@ -11,7 +11,9 @@
 5. Looping, Debugging, and Randomization
 6. Arrays
 7. Methods, Classes (Encapsulation, Objects, and References)
+   - see TicTacToe
 8. Classes (Constructors, Inheritance)
+   - see MagicEightBall and driver
 9. Graphical User Interface
 10. Databases and SQLite
 11. Web Crawling and Data Collection
